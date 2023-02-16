@@ -1,0 +1,11 @@
+.Gridconteiner{
+    display: grid;
+    row-gap: 50px;
+    column-gap: 100px;
+    grid-template-columns: 300px 300px ;
+    grid-template-rows: 200px 200px; 
+    background-color: pink;
+}
+.itam{
+    background-color: purple;
+}
