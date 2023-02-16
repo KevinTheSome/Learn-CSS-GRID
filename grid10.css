@@ -1,0 +1,14 @@
+.Gridconteiner{
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(2,100px);
+    background-color: #40fef4;
+    width: 600px;
+}
+.itam{
+    background-color:#00b3ff;
+}
+.itam2{
+    background-color:#0051ff;
+}
