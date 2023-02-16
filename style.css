@@ -1,12 +1,48 @@
-#Gridconteiner{
+.Gridconteiner{
     display: grid;
-    gap: 20px;
-    grid-template-columns: 120px 50px;
-    grid-template-rows: 120px 50px; 
+    gap: 5px;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 25% 25% 25% 25%; 
 }
-#contoiner{
-    border: 5xp solid pink;
+.item{
     background-color: lightpink;
     width:100px;
     height: 100px;
+    text-align: center;
+}
+.item-1{
+    background-color: wheat;
+}
+.item-2{
+    background-color: purple;
+}
+.item-3{
+    background-color: rebeccapurple;
+}
+.item-4{
+    background-color: red;
+}
+.item-5{
+    background-color: wheat;
+}
+.item-6{
+    background-color: purple;
+}
+.item-7{
+    background-color: rebeccapurple;
+}
+.item-8{
+    background-color: red;
+}
+.item-9{
+    background-color: wheat;
+}
+.item-10{
+    background-color: purple;
+}
+.item-11{
+    background-color: rebeccapurple;
+}
+.item-12{
+    background-color: red;
 }
