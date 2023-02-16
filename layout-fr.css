@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.Gridconteiner{
+    display: grid;
+    grid-template-columns:1fr 4fr 2fr;
+    grid-template-rows: 100vh;
+}
+.itam1{
+    background-color: red;
+    height: 100%;
+
+}
+.itam4{
+    background-color: blue;
+    height: 100%;
+}
+.itam2{
+    background-color: green;
+    height: 100%;
+}
